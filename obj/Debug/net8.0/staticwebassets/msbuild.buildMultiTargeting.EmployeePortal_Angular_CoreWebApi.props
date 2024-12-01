@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EmployeePortal_Angular_CoreWebApi.props" />
+</Project>

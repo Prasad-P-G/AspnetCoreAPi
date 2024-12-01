@@ -1,0 +1,6 @@
+@EmployeePortal_Angular_CoreWebApi_HostAddress = http://localhost:5168
+
+GET {{EmployeePortal_Angular_CoreWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
